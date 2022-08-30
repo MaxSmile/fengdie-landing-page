@@ -2,35 +2,35 @@ import React from 'react';
 
 export const page1 = [
   {
-    title: '轻松建站',
-    content: '支持可视化编辑、自由拖拽排版、实时预览、在线访问加速等功能',
+    title: 'Easily build a website',
+    content: 'Support visual editing, free drag and drop typesetting, real-time preview, online access acceleration and other functions',
     src: 'https://gw.alipayobjects.com/zos/rmsportal/MmROsqZndrFBrIspzLlL.png',
   },
   {
-    title: '数据分析',
-    content: '网站内设有数据监测埋点，助你时刻掌握站点效果，鉴别有效渠道',
+    title: 'data analysis',
+    content: 'There are data monitoring and buried points in the website to help you keep abreast of site effects and identify effective channels',
     src: 'https://gw.alipayobjects.com/zos/rmsportal/ONvKhpRAmkCfdEhkUZkJ.png',
   },
   {
-    title: '企业协同',
-    content: '企业版支持以团队管理的方式，多人协作完成营销站点，共享资源',
+    title: 'Enterprise collaboration',
+    content: 'Enterprise Edition supports team management, multi-person collaboration to complete marketing sites and share resources',
     src: 'https://gw.alipayobjects.com/zos/rmsportal/oxmXLgGjCeXfYPcVSbKg.png',
   },
 ];
 
 export const page2 = [
   {
-    title: '端午节',
+    title: 'Dragon Boat Festival',
     url: 'https://render.alipay.com/p/f/fd-jauizbz9/index.html',
     image: 'https://gw.alipayobjects.com/zos/rmsportal/VMhxnfHxvCgksDCnbfQX.jpg',
   },
   {
-    title: '余额宝4周年',
+    title: 'Yue Bao 4th Anniversary',
     url: 'https://render.alipay.com/p/f/fd-jauj8apg/index.html',
     image: 'https://gw.alipayobjects.com/zos/rmsportal/kJCZlvEAvTnyLVqzrhzH.jpg',
   },
   {
-    title: '支付宝付款',
+    title: 'Alipay payment',
     url: 'http://www.anijue.com/p/q/j5rxse2a/pages/home/index.html',
     image: 'https://gw.alipayobjects.com/zos/rmsportal/yKHLCeGLgdFoxFXhzFtu.jpg',
   },
@@ -243,9 +243,9 @@ export const page4 = [
 ];
 
 export const footer = [
-  { text: '解决方案', src: '#' },
-  { text: '使用帮助', src: '#' },
-  { text: '模板开发文档', src: '#' },
-  { text: '模板开发工具', src: '#' },
-  { text: '联系我们', src: 'mailto:zhao.wuz@antfin.com' },
+  { text: 'solution', src: '#' },
+  { text: 'Using help', src: '#' },
+  { text: 'Template development documentation', src: '#' },
+  { text: 'Template development tools', src: '#' },
+  { text: 'contact us', src: 'mailto:zhao.wuz@antfin.com' },
 ];
